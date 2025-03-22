@@ -1,7 +1,7 @@
-# Self-Presentation in Rap Lyrics - PSL Week NLP for Social Sciences (October 2024)
+# Self-Presentation in Rap Lyrics - PSL Week NLP for Social Sciences 
 
 ## Project Overview
-This project was conducted as part of PSL Week NLP for Social Sciences (October 2024). The methodology was introduced by Mr. Christophe Benevent at the beginning of the week and was previously applied to analyze Airbnb hosts. The dataset is based on the work of [Benoit de Courson](lien_vers_le_travail_de_benoit_de_courson).
+This project was conducted as part of PSL Week NLP for Social Sciences (November 2024). The methodology was introduced by Pr. Christophe Benevent at the beginning of the week and was previously applied to analyze Airbnb hosts. The dataset is based on the work of [Benoit de Courson]([lien_vers_le_travail_de_benoit_de_courson](https://huggingface.co/datasets/regicid/LRFAF)).
 
 ## Acknowledgments
 We thank Mr. Christophe Benevent for his guidance https://github.com/BenaventC/RapFrance/blob/main/README.md and Benoit de Courson  https://huggingface.co/datasets/regicid/LRFAF for providing the dataset that made this analysis possible.
